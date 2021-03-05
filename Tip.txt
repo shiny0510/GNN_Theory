@@ -1,0 +1,14 @@
+https://github.com/JinheonBaek/GMT
+https://github.com/JinheonBaek/GEN
+
+1. Theory
+- [Semi-Supervised Classification with Graph Convolutional Networks, ICLR 2017] 이 논문이 spectral theory 에서 graph neural network 를 유도한 논문 
+add,, graph signal denoising 이나 graph trend filtering 
+
+2. base paper
+1st  [Inductive Representation Learning on Large Graphs, NIPS 2017] graph method Journal.
+2st [Graph Attention Networks, ICLR 2018].
+
+3. coding
+- pytorch geometric or DGL 같이, pytorch graph library.
+- https://pytorch-geometric.readthedocs.io/en/latest/notes/introduction.html#learning-methods-on-graphs 
